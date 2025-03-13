@@ -19,11 +19,6 @@ class UserController extends Controller
      * Display a listing of the resource.
      */
 
-      /**
-     * Testing git desi
-     */
-    
-
 
 
     public function login_mobile(Request $request){
